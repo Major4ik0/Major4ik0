@@ -32,7 +32,7 @@
 <!-- Закрепите до 6 репозиториев в настройках профиля (Settings -> Pinned repositories) и добавьте их сюда -->
 | Проект | Описание | Стек |
 |--------|----------|------|
-=| **[Vka](https://github.com/Major4ik0/vka)** | Обертка для vk | asyncio, loguru |
+| **[Vka](https://github.com/Major4ik0/vka)** | Обертка для vk | asyncio, loguru |
 
 ---
 
